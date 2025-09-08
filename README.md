@@ -1,6 +1,8 @@
 # pytest-tips-tricks
 ---
 
+[![Python application test with Github Actions](https://github.com/complexhhs/pytest-tips-tricks/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/complexhhs/pytest-tips-tricks/actions/workflows/testing-ci.yml)
+
 ## Step 1. Github codespace 
     - command
     ```
